@@ -9,7 +9,7 @@
 #### Для работы БД
 
 - `SQL_USER = 'db_username'` - имя пользователя БД
-- `SQL_PASSWORD` = 'db_userpass'` - пароль пользователя БД
+- `SQL_PASSWORD = 'db_userpass'` - пароль пользователя БД
 - `SQL_HOST = 'db_host'` - адрес хоста БД
 - `SQL_DBNAME = 'db_name'` - имя БД
 
