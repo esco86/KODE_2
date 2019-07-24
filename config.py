@@ -12,6 +12,6 @@ class Mail_config(object):
 	EMAIL_PASSWORD = 'qwerty'
 
 class Checker_config(object):
-	CHECKER_KEY = 'FR65GXE38K63IZ3A'
+	CHECKER_KEY = ''
 	CHECKER_PERIOD = 10  
 	CHECKER_MAILSEND_PAUSE = 3
